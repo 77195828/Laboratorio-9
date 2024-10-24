@@ -7,19 +7,19 @@ header{
 }
 /*Estilos para la barra de navegacion*/
 nav a{
+  text-align: center;
   color: black;
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
-  text-align: center;
-}
+ }
 /*cambiar de color*/
 nav a:hover{
   color: chocolate;
 }
 /*Estilo para la seccion principal*/
 .contenedor{
-width: 90%;
+width: 80%;
 margin: 20px auto;
 padding: 15px;
 background-color: #f4f4f4;
@@ -40,5 +40,6 @@ footer{
   text-align: center;
   padding: 10px;
   margin-top: 10px;
+  border-radius: 15px
 }
 
